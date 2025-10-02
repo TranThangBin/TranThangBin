@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **personal stuff**
 - 🌱 I’m currently learning **software engineering**
 - 👯 I’m looking to collaborate on **anything in my ability**
-- ⚡ Fun fact: I like , , , , , 
+- ⚡ Fun fact: I like \ue62b, \uebc6, \uf359, \ue866, \ue627, \ue7ee
 
 [![TranThangBin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tranthangbin&theme=catppuccin_mocha&show_icons=true&rank_icon=github#gh-dark-mode-only)](https://github.com/tranthangbin/tranthangbin#gh-dark-mode-only)
 [![TranThangBin's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tranthangbin&theme=catppuccin_latte&show_icons=true&rank_icon=github#gh-light-mode-only)](https://github.com/tranthangbin/tranthangbin#gh-light-mode-only)
