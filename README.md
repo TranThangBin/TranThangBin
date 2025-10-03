@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **personal stuff**
 - 🌱 I’m currently learning **software engineering**
 - 👯 I’m looking to collaborate on **anything in my ability**
-- ⚡ Fun fact: I like `neovim`, `linux`, `hyprland`, `podman`, `go` and `godot`
+- ⚡ Fun fact: I like ![Linux](https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linux-tux.svg) ![Neovim](https://raw.githubusercontent.com/neovim/neovim/master/cmake.packaging/neovim.svg) ![Hyprland](https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/header.svg) ![Go Gopher](https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gopher.svg) ![Godot](https://raw.githubusercontent.com/gilbarbara/logos/main/logos/godot-icon.svg) ![Podman](https://raw.githubusercontent.com/containers/podman/main/logo/podman-logo-source.svg)
 
  [![TranThangBin's GitHub stats Dark](https://github-readme-stats.vercel.app/api?username=tranthangbin&theme=catppuccin_mocha&show_icons=true&rank_icon=github#gh-dark-mode-only)](https://github.com/tranthangbin/tranthangbin#gh-dark-mode-only)
 [![TranThangBin's GitHub stats Light](https://github-readme-stats.vercel.app/api?username=tranthangbin&theme=catppuccin_latte&show_icons=true&rank_icon=github#gh-light-mode-only)](https://github.com/tranthangbin/tranthangbin#gh-light-mode-only)
