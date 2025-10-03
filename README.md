@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Thang;I+like+software;That's+it)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=Hello%2C+I'm+Thang;I+like+software;That's+it)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **personal stuff**
 - 🌱 I’m currently learning **software engineering**
