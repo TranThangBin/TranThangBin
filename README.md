@@ -18,4 +18,5 @@
 
 [![Contribution Dark](https://raw.githubusercontent.com/tranthangbin/tranthangbin/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/tranthangbin/tranthangbin#gh-dark-mode-only)
 [![Contribution Light](https://raw.githubusercontent.com/tranthangbin/tranthangbin/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/tranthangbin/tranthangbin#gh-light-mode-only)
+
 _generated with [Platane/snk](https://github.com/Platane/snk)_
